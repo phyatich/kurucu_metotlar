@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/bin/Debug/net5.0/kurucu_metotlar.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/bin/Debug/net5.0/kurucu_metotlar.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/bin/Debug/net5.0/kurucu_metotlar.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/bin/Debug/net5.0/kurucu_metotlar.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/bin/Debug/net5.0/ref/kurucu_metotlar.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/bin/Debug/net5.0/kurucu_metotlar.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/kurucu_metotlar.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/kurucu_metotlar.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/kurucu_metotlar.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/kurucu_metotlar.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/kurucu_metotlar.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/ref/kurucu_metotlar.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/kurucu_metotlar.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/kurucu_metotlar/obj/Debug/net5.0/kurucu_metotlar.genruntimeconfig.cache
